@@ -1,2 +1,2 @@
 # Image-Processing-MNSIT-data
-Building neural network and performing image processing with the help of MNSIT dataset
+Using OpenCV to process images and used MNIST dataset to train deep neural network with sigmoid activation function to predict digits.
